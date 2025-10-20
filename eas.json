@@ -6,16 +6,13 @@
   "build": {
     "development": {
       "developmentClient": true,
-      "distribution": "internal",
-      "workingDirectory": "monitoramento-agua"
+      "distribution": "internal"
     },
     "preview": {
-      "distribution": "internal",
-      "workingDirectory": "monitoramento-agua"
+      "distribution": "internal"
     },
     "production": {
-      "autoIncrement": true,
-      "workingDirectory": "monitoramento-agua"
+      "autoIncrement": true
     }
   },
   "submit": {
